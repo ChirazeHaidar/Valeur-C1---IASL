@@ -10,3 +10,6 @@ Vous trouverez la configuration et l'installation: https://drive.google.com/open
 
 Ce site, contient tous ce que j'ai fait sur cette presentation: https://sites.google.com/a/isae.edu.lb/chiraze-haydar/
 
+Vous Pour savoir comment executer un travail MapReduce: 
+https://sites.google.com/a/isae.edu.lb/chiraze-haydar/home/hadoop/execution-d-un-job-mapreduce
+
